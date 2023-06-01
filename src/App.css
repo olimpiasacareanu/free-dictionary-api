@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.form-search{
+  background-color: chartreuse;
+}
+
+h1{
+  margin:0;
+}
+
+thead{
+  background-color: rgb(234, 234, 234);
 }
